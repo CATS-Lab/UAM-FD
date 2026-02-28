@@ -18,9 +18,11 @@ This repository supports the proposed methodology in the paper, including:
 
 In addition, we release a trajectory-based UAM traffic flow dataset, **UAMTra2Flow**, derived from both simulation and physical experiments.
 
-<video width="100%" controls>
-  <source src="https://github.com/CATS-Lab/UAM-FD/releases/download/v1.0/demo.video.mp4" type="video/mp4">
-</video>
+
+
+https://github.com/user-attachments/assets/c91ed3dd-3e1a-46ca-8b2a-afa451e7482c
+
+
 
 ## Repository Layout
 
