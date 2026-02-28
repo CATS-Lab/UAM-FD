@@ -1,4 +1,4 @@
-# Developing a Fundamental Diagram for Urban Air Mobility Traffic Based on Physical Experiments
+# Developing Fundamental Diagrams for Urban Air Mobility Traffic Based on Physical Experiments
 
 ## Overview
 
